@@ -1,4 +1,4 @@
-#Mortal Kombat - учебный проэкт Glo Academy
+# Mortal Kombat - учебный проэкт Glo Academy
 
 ## Выполнил проэкт Касап Владимир
 
